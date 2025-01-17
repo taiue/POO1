@@ -1,4 +1,4 @@
-﻿namespace POO1
+﻿namespace Inicio
 {
     struct Point
     {

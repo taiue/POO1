@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-using POO1;
+﻿using Inicio;
 
 Console.WriteLine("Hello, World!");
 
