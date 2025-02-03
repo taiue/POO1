@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioTreino", "Exercici
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Params", "Params\Params.csproj", "{575DD235-E933-4079-B4E8-7D27FCF8E144}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reff_e_Out", "Reff_e_Out\Reff_e_Out.csproj", "{A9814CE2-E25B-4B5E-8380-91B1042125A0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{575DD235-E933-4079-B4E8-7D27FCF8E144}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{575DD235-E933-4079-B4E8-7D27FCF8E144}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{575DD235-E933-4079-B4E8-7D27FCF8E144}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9814CE2-E25B-4B5E-8380-91B1042125A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9814CE2-E25B-4B5E-8380-91B1042125A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9814CE2-E25B-4B5E-8380-91B1042125A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9814CE2-E25B-4B5E-8380-91B1042125A0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
