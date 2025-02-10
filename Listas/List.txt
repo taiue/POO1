@@ -1,0 +1,14 @@
+Listas
+
+Estruturas de dados o mesmo tipo
+Ordenadas, cada item possui sua posição
+Listas se iniciam vazias
+Cada elemento ocupa um nó da lista
+
+
+Vantagens 
+Possui tamanho variavel 
+Facilidade para adicionar e remover elementos
+
+Desvantagens
+Acesso sequencial aos elementos
